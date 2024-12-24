@@ -280,6 +280,7 @@ python infer.py --experiment_dir experiment
 
 ## Pre-trained model
 本项目提供训练好的模型，有方正多宝塔碑、多宝塔碑、柳公权楷书、魏碑、赵孟頫三门记、何绍基隶书、金农隶书供大家下载使用。
+**2024/12/24更新：预训练模型正在更新中，将于项目整理完毕之后给出链接。**
 
 ## Acknowledgements
 Code derived and rehashed from:
